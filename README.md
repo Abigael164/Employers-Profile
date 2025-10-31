@@ -1,5 +1,5 @@
 **##Employer Profile**
-This ia a simple **React** projext that displays employer profiles using reusable components.Each profiles shows a name, image, age date of birth and a short bio.
+** This ia a simple **React** projext that displays employer profiles using reusable components.Each profiles shows a name, image, age date of birth and a short bio.
 The app demonstrates how to use React components, props and CSS styling.
 
 **##Features**
